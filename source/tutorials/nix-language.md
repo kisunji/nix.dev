@@ -280,7 +280,7 @@ Nix language data types *without functions* work just like their counterparts in
   list = [ 1 "two" false ];
   attribute-set = {
     a = "hello";
-    b = 2;
+    b = 1;
     c = 2.718;
     d = false;
   }; # comments are supported
